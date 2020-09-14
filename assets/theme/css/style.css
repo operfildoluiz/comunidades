@@ -748,6 +748,10 @@ blockquote {
   .menu .navbar-collapse {
     max-height: 80vh;
   }
+
+  .navbar-logo img {
+    height: 3rem !important;
+  }
 }
 
 /* Others*/

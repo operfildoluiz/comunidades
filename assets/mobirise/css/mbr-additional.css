@@ -1014,9 +1014,9 @@ section.lazy-placeholder:after {
     flex-direction: column;
     -webkit-flex-direction: column;
   }
-  .cid-sazu12YbXd img {
+  /* .cid-sazu12YbXd img {
     height: 3.8rem !important;
-  }
+  } */
   .cid-sazu12YbXd .btn {
     display: -webkit-flex;
   }
